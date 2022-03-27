@@ -1,2 +1,2 @@
-# ProjectsC++
-Implementation of data structures
+# C++Projects
+Implementation of data structures.
