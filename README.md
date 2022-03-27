@@ -1,2 +1,2 @@
-# Projects-C-
+# ProjectsC++
 Implementation of data structures
