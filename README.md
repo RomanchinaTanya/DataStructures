@@ -1,4 +1,4 @@
-# C++Projects
+# C++
 Implementation of useful classes and data structures:
  - Any.
  - Array.
